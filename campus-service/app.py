@@ -1,9 +1,9 @@
 # This is a comment. The computer ignores this line!
-print("Hello, World!")  # Prints text to the screen
+print("Ehab khan")  # Prints text to the screen
 
 # Storing different types of data in variables
-user_name = "Alex"      # A string (text)
-coding_hours = 5        # An integer (whole number)
+user_name = "Ehab khan"      # A string (text)
+coding_hours = 10       # An integer (whole number)
 is_enjoying = True     # A boolean (True/False)
 
 # Printing data beautifully using an "f-string"
