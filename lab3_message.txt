@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Project status: Reviewed by both teams.
+=======
+Project status: Reviewed by Team B.
+Project status: Reviewed by Team A.
+>>>>>>> lab3/team-b
